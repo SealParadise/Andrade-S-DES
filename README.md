@@ -14,7 +14,7 @@
 
 单位：重庆大学大数据与软件学院
 
-![Aibo](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/Aibo.jpg)
+![Aibo](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/Aibo.jpg)
 
 ​	注：左起第一位为徐涵浩，第二位为明子鸿。
 
@@ -40,17 +40,17 @@
 
 ​	“结果”处的密文框和原文框无法直接进行编辑，只能输出展示“加密”和“解密”的结果；
 
-![img1](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img1.png)
+![img1](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img1.png)
 
 
 
 ##### 1.2 点击“随机生成密钥”按钮，可以随机生成十位二进制密钥；
 
-![img2](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img2.png)
+![img2](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img2.png)
 
 
 
-![img3](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img3.png)
+![img3](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img3.png)
 
 ​	注：也可以手动输入密钥！
 
@@ -70,7 +70,7 @@
 
 ​		求得密文：11101000
 
-![img5](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img5.jpg)
+![img5](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img5.jpg)
 
 
 
@@ -82,7 +82,7 @@
 
 ​		解得原文：10101010
 
-![img6](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img6.jpg)
+![img6](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img6.jpg)
 
 
 
@@ -90,9 +90,9 @@
 
 ​		当输入原文或密钥不符合规范时；
 
-![img4](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img4.jpg)
+![img4](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img4.jpg)
 
-![img7](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img7.jpg)
+![img7](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img7.jpg)
 
 
 
@@ -132,7 +132,7 @@
 
 ​		密文：00100100
 
-![img8](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img8.jpg)
+![img8](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img8.jpg)
 
 
 
@@ -144,7 +144,7 @@
 
 ​		密文：00100100
 
-![img9](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img9.png)
+![img9](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img9.png)
 
 
 
@@ -156,7 +156,7 @@
 
 ​		原文：10101010
 
-![img11](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img11.jpg)
+![img11](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img11.jpg)
 
 
 
@@ -168,7 +168,7 @@
 
 ​		原文：10101010
 
-![img10](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img10.png)
+![img10](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img10.png)
 
 
 
@@ -182,7 +182,7 @@
 
 ​		密文：01011101
 
-![img15](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img15.jpg)
+![img15](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img15.jpg)
 
 
 
@@ -194,7 +194,7 @@
 
 ​		密文：01011101
 
-![img12](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img12.jpg)
+![img12](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img12.jpg)
 
 
 
@@ -206,7 +206,7 @@
 
 ​		原文：11011111
 
-![img14](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img14.jpg)
+![img14](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img14.jpg)
 
 
 
@@ -218,7 +218,7 @@
 
 ​		原文：11011111
 
-![img13](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img13.jpg)
+![img13](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img13.jpg)
 
 
 
@@ -254,7 +254,7 @@
 
 ​	密钥：0111001000
 
-![img16](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img16.png)
+![img16](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img16.png)
 
 
 
@@ -268,7 +268,7 @@
 
 ​		求得密文：µH%![img](file:///C:\Users\小明同学\AppData\Roaming\Tencent\QQTempSys\Y~0W11Z$S%S$`5RT73%X6%J.png)%X
 
-![img17](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img17.jpg)
+![img17](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img17.jpg)
 
 
 
@@ -280,7 +280,7 @@
 
 ​		解得原文：Andrade
 
-![img18](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img18.jpg)
+![img18](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img18.jpg)
 
 
 
@@ -314,7 +314,7 @@
 
 ​	密文：00101101
 
-![img19](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img19.jpg)
+![img19](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img19.jpg)
 
 ##### 4.2 破解测试
 
@@ -336,9 +336,9 @@
 
 ​	
 
-![img20](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img20.jpg)
+![img20](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img20.jpg)
 
-![img21](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img21.jpg)
+![img21](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img21.jpg)
 
 
 
@@ -362,11 +362,11 @@
 
 
 
-![img23](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img23.jpg)
+![img23](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img23.jpg)
 
 
 
-![img22](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img22.jpg)
+![img22](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img22.jpg)
 
 
 
@@ -394,7 +394,7 @@
 
 ​	对于关卡4中的结果，我们选取的明密文对为：01010101（明文）与00101101（原文）；
 
-![img19](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img19.jpg)
+![img19](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img19.jpg)
 
 
 
@@ -412,7 +412,7 @@
 
 ​	⑥1101001100。
 
-![img20](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img20.jpg)
+![img20](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img20.jpg)
 
 
 
@@ -430,7 +430,7 @@
 
 ​	     所得密文：00101101
 
-![img24](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img24.jpg)
+![img24](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img24.jpg)
 
 
 
@@ -440,7 +440,7 @@
 
 ​	     所得密文：00101101
 
-![img25](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img25.jpg)
+![img25](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img25.jpg)
 
 
 
@@ -450,7 +450,7 @@
 
 ​	     所得密文：00101101
 
-![img26](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img26.jpg)
+![img26](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img26.jpg)
 
 
 
@@ -460,7 +460,7 @@
 
 ​	     所得密文：00101101
 
-![img27](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img27.jpg)
+![img27](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img27.jpg)
 
 
 
@@ -470,7 +470,7 @@
 
 ​	     所得密文：00101101
 
-![img28](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img28.jpg)
+![img28](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img28.jpg)
 
 
 
@@ -480,7 +480,7 @@
 
 ​	     所得密文：00101101
 
-![img29](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img29.jpg)
+![img29](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img29.jpg)
 
 ​	注：以上六个密钥经测试均能得到相同且符合的明密文对。
 
