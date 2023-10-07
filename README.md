@@ -14,7 +14,7 @@
 
 单位：重庆大学大数据与软件学院
 
-![Aibo](F:\重庆大学\大三上\信息安全导论\作业\作业一\准备\Word\Aibo.jpg)
+![Aibo](https://github.com/m916662613/Andrade-S-DES/tree/main/ImageAibo.jpg)
 
 ​	注：左起第一位为徐涵浩，第二位为明子鸿。
 
