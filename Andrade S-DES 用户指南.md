@@ -310,7 +310,7 @@
 
 ​	    原文：Andrade
 
-​	    求得密文：µH%![img](file:///C:\Users\小明同学\AppData\Roaming\Tencent\QQTempSys\Y~0W11Z$S%S$`5RT73%X6%J.png)%X
+​	    求得密文：µH%![icon1](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/icon1.png)%X
 
 ![img17](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img17.jpg)
 
@@ -318,7 +318,7 @@
 
 ​	④ 密钥：0111001000
 
-​	     密文：µH%![img](file:///C:\Users\小明同学\AppData\Roaming\Tencent\QQTempSys\Y~0W11Z$S%S$`5RT73%X6%J.png)%X
+​	     密文：µH%![icon1](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/icon1.png)%X
 
 ​	     解得原文：Andrade
 
