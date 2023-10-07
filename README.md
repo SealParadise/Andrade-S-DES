@@ -14,7 +14,7 @@
 
 单位：重庆大学大数据与软件学院
 
-![Aibo](https://github.com/m916662613/Andrade-S-DES/tree/main/ImageAibo.jpg)
+![Aibo](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/Aibo.jpg)
 
 ​	注：左起第一位为徐涵浩，第二位为明子鸿。
 
