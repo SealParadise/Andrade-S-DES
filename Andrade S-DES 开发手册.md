@@ -73,7 +73,7 @@
 
 ### 3.2 获取源代码
 
-- 源代码仓库：https://github.com/m916662613/Andrade-S-DES
+- 源代码仓库：https://github.com/SealParadise/Andrade-S-DES
 
 
 
