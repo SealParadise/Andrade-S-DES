@@ -22,7 +22,7 @@
 
 ### 二、仓库说明
 
-​	本仓库包含Andrade小组完成的信息安全导论作业一的全部内容，主要为源代码（Src文件夹）、测试报告（README.md）、开发手册（Andrade S-DES 开发手册.md）、用户指南（Andrade S-DES 用户指南.md）、图片（Image文件夹），如有内容缺少、内容错误或其他问题请随时联系我们，联系方式shennmo@foxmall.com（请备明来意）。
+​	本仓库包含Andrade小组完成的信息安全导论作业一的全部内容，主要为源代码（Code文件夹）、测试报告（README.md）、开发手册（Andrade S-DES 开发手册.md）、用户指南（Andrade S-DES 用户指南.md）、图片（Image文件夹），如有内容缺少、内容错误或其他问题请随时联系我们，联系方式shennmo@foxmall.com（请备明来意）。
 
 
 
