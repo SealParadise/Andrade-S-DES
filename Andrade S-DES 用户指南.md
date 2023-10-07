@@ -146,7 +146,7 @@
 - 推荐下载JetBrains IntelliJ IDEA（通常简称为IDEA），一款由JetBrains公司开发的强大的集成开发环境（IDE），专门用于Java开发，提供了丰富的功能、高度的可定制性和出色的性能；
 - 选择src/main/java/mainApp.java点击运行即可。
 
-![img30](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img30.jpg)
+![img30](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img30.jpg)
 
 
 
@@ -156,7 +156,7 @@
 
 ​	输入参数为8bit二进制数或者ASCⅡ编码(分组为1byte)的字符串、10bit密钥(也可以由本系统随机生成)；
 
-![img1](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img1.png)
+![img1](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img1.png)
 
 ​	注：界面左上角的“输入ASCⅡ字符”勾选表示输入原文为ASCⅡ编码的字符串，不勾选表示输入为8bit二进制数。
 
@@ -168,7 +168,7 @@
 
 ​	     原文：10101010
 
-![img31](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img31.png)
+![img31](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img31.png)
 
 
 
@@ -176,7 +176,7 @@
 
 ​	     原文：Andrade
 
-![img33](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img33.png)
+![img33](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img33.png)
 
 
 
@@ -184,7 +184,7 @@
 
 ​	     密文：10101010
 
-![img37](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img37.png)
+![img37](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img37.png)
 
 
 
@@ -192,7 +192,7 @@
 
 ​	     密文：\>ëVÓ
 
-![img36](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img36.png)
+![img36](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img36.png)
 
 
 
@@ -212,7 +212,7 @@
 
 ​	     密文：01001001
 
-![img32](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img32.jpg)
+![img32](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img32.jpg)
 
 
 
@@ -222,7 +222,7 @@
 
 ​	     密文：\>ëVÓ
 
-![img34](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img34.jpg)
+![img34](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img34.jpg)
 
 
 
@@ -232,7 +232,7 @@
 
 ​	     原文：10111110
 
-![img38](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img38.png)
+![img38](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img38.png)
 
 
 
@@ -242,7 +242,7 @@
 
 ​	     原文：Andrade
 
-![img35](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img35.jpg)
+![img35](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img35.jpg)
 
 
 
@@ -258,7 +258,7 @@
 
 ​	③“结果”处的密文框和原文框无法直接进行编辑，只能输出展示“加密”和“解密”的结果；
 
-![img1](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img1.png)
+![img1](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img1.png)
 
 
 
@@ -266,17 +266,17 @@
 
 ​	①点击“随机生成密钥”按钮，可以随机生成十位二进制密钥；
 
-![img2](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img2.png)
+![img2](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img2.png)
 
 
 
-![img3](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img3.png)
+![img3](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img3.png)
 
 
 
 ​	②可以手动输入密钥；
 
-![img39](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img39.png)
+![img39](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img39.png)
 
 
 
@@ -292,7 +292,7 @@
 
 ​	     求得密文：11101000
 
-![img5](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img5.jpg)
+![img5](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img5.jpg)
 
 
 
@@ -302,7 +302,7 @@
 
 ​	     解得原文：10101010
 
-![img6](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img6.jpg)
+![img6](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img6.jpg)
 
 
 
@@ -312,7 +312,7 @@
 
 ​	    求得密文：µH%![img](file:///C:\Users\小明同学\AppData\Roaming\Tencent\QQTempSys\Y~0W11Z$S%S$`5RT73%X6%J.png)%X
 
-![img17](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img17.jpg)
+![img17](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img17.jpg)
 
 
 
@@ -322,7 +322,7 @@
 
 ​	     解得原文：Andrade
 
-![img18](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img18.jpg)
+![img18](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img18.jpg)
 
 
 
@@ -332,7 +332,7 @@
 
 ​	“暴力破解界面”可以输入明密文对，点击“暴力解密”按钮即可找到可能的密钥，在下方文本框输出。IDEA运行窗口（Run）处可以输出“暴力破解”窗口的创建时间及找到密钥的时间，且本系统可以实现单线程或多线程破解。
 
-![img40](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img40.jpg)
+![img40](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img40.jpg)
 
 
 
@@ -354,9 +354,9 @@
 
 ​	
 
-![img20](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img20.jpg)
+![img20](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img20.jpg)
 
-![img21](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img21.jpg)
+![img21](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img21.jpg)
 
 
 
@@ -378,11 +378,11 @@
 
 
 
-![img23](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img23.jpg)
+![img23](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img23.jpg)
 
 
 
-![img22](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img22.jpg)
+![img22](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img22.jpg)
 
 
 
@@ -392,17 +392,17 @@
 
 ​	①输入密钥或者8bit二进制数原文时不规范；
 
-![img41](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img41.jpg)
+![img41](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img41.jpg)
 
 
 
-![img42](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img42.png)
+![img42](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img42.png)
 
 
 
 ​	②输入为ASCⅡ编码字符串，但没有勾选相应选项；
 
-![img43](https://github.com/m916662613/Andrade-S-DES/tree/main/Image/img43.jpg)
+![img43](https://github.com/m916662613/Andrade-S-DES/blob/main/Image/img43.jpg)
 
 
 
