@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="357.0" prefWidth="621.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="desController">
+   <children>
+      <Button layoutX="166.0" layoutY="284.0" mnemonicParsing="false" onAction="#Encode" prefHeight="30.0" prefWidth="59.0" text="加密">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <Button layoutX="429.0" layoutY="284.0" mnemonicParsing="false" onAction="#Decode" prefHeight="30.0" prefWidth="59.0" text="解密">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <TextField fx:id="encodeSou" layoutX="106.0" layoutY="106.0">
+         <font>
+            <Font size="14.0" />
+         </font></TextField>
+      <TextField fx:id="decodeSou" layoutX="364.0" layoutY="106.0">
+         <font>
+            <Font size="14.0" />
+         </font></TextField>
+      <Label layoutX="59.0" layoutY="109.0" prefHeight="23.0" prefWidth="51.0" text="原文：">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="311.0" layoutY="109.0" prefHeight="23.0" prefWidth="51.0" text="密文：">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="59.0" layoutY="229.0" prefHeight="23.0" prefWidth="51.0" text="密文：">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="311.0" layoutY="229.0" prefHeight="23.0" prefWidth="51.0" text="原文：">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <TextField fx:id="keyField" layoutX="217.0" layoutY="27.0">
+         <font>
+            <Font size="14.0" />
+         </font></TextField>
+      <Label layoutX="175.0" layoutY="30.0" prefHeight="23.0" prefWidth="51.0" text="密钥：">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Button layoutX="439.0" layoutY="27.0" mnemonicParsing="false" onAction="#randomKey" text="随机生成密钥">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <CheckBox fx:id="checkBox" layoutX="30.0" layoutY="30.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="136.0" text="输入ASCII字符">
+         <font>
+            <Font size="14.0" />
+         </font></CheckBox>
+      <TextField fx:id="encodeRes" layoutX="106.0" layoutY="226.0" style="-fx-background-color: #d3d3d3;">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="decodeRes" layoutX="364.0" layoutY="226.0" style="-fx-background-color: #d3d3d3;">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <Separator layoutX="1.0" layoutY="177.0" prefHeight="0.0" prefWidth="622.0" />
+      <Label layoutX="30.0" layoutY="156.0" text="结果" />
+   </children>
+</AnchorPane>

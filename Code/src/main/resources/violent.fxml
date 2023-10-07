@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="515.0" prefWidth="601.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="violentController">
+   <children>
+      <Button layoutX="260.0" layoutY="225.0" mnemonicParsing="false" onAction="#violentDecode" prefHeight="23.0" prefWidth="80.0" text="暴力解密">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <TextField fx:id="originalText" layoutX="206.0" layoutY="84.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="secretText" layoutX="206.0" layoutY="160.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <Label layoutX="162.0" layoutY="87.0" prefHeight="23.0" prefWidth="44.0" text="原文">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="162.0" layoutY="163.0" prefHeight="23.0" prefWidth="44.0" text="密文">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="162.0" layoutY="358.0" prefHeight="23.0" prefWidth="44.0" text="密钥">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextArea fx:id="keyArea" layoutX="201.0" layoutY="269.0" prefHeight="200.0" prefWidth="200.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>
