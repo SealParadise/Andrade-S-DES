@@ -6,7 +6,7 @@
 
 单位：重庆大学大数据与软件学院
 
-联系方式：shennmo@foxmall.com
+联系方式：mingzihong@foxmail.com
 
 
 
@@ -458,7 +458,7 @@
 
 ​	有其他任何问题，请随时联系我们，请备注来意！
 
-​	邮箱：shennmo@foxmall.com
+​	邮箱：mingzihong@foxmail.com
 
 
 
@@ -484,7 +484,7 @@
 
 ### 7.2 联系方式
 
-​	邮箱：shennmo@foxmall.com
+​	邮箱：mingzihong@foxmail.com
 
 
 
